@@ -103,7 +103,7 @@ body {
     color: #333;
 }
 div#container-wrap {
-    background: url(local--files/component-theme/body_bg.png) top left repeat-x;
+    background: url(../../../local--files/component-theme/body_bg.png) top left repeat-x;
 }
  
 sup { 
